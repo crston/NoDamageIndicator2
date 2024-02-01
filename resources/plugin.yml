@@ -4,3 +4,4 @@ version: 1.0
 description: Damage Indicator Particle Packet Remover
 author: crston
 depend: [ ProtocolLib ]
+api-version: 1.13

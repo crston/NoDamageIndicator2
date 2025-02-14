@@ -1,0 +1,6 @@
+name: NoDamageIndicator2
+main: com.gmail.bobason01.NoDamageIndicator
+version: 2.0
+description: Damage Indicator Particle Packet Remover
+author: crston
+depend: [ ProtocolLib ]
